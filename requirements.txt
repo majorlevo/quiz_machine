@@ -1,3 +1,4 @@
 haystack-ai
 PyMuPDF
 ipykernel
+fpdf2
