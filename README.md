@@ -32,7 +32,7 @@ The goal of this project is to create a generative AI, which creates a quiz from
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use this project run the 'third_edit.ipynb' notebook. If you want to set the difficulty and number of the questions, set the parameters True, else leave them False.
+To use this project run the 'third_edit.ipynb' notebook. If you want to set the difficulty and number of the questions, set the parameters False, else leave them True.
 
 
 
