@@ -38,7 +38,7 @@ To use this project run the 'third_edit.ipynb' notebook. If you want to set the 
 
 
 ## Group members:
-    -Alexandra Mentes
+    -Alexa Dóra Mentes
     -Botond Bencsics
     -Levente Major
 
