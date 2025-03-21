@@ -1,3 +1,5 @@
 haystack-ai
 PyMuPDF
 ipykernel
+fpdf2
+deep_translator
